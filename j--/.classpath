@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javacc.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/j2h.jar"/>
+	<classpathentry kind="lib" path="lib/spim.jar"/>
+	<classpathentry kind="lib" path="lib/j--.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
